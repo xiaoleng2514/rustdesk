@@ -75,7 +75,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="Rustdesk" />
+                <data android:scheme="远程软件" />
             </intent-filter>
         </activity>
 
